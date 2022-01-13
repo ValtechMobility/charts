@@ -3,7 +3,7 @@ entries:
   clickhouse:
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.775591337Z"
+    created: "2022-01-13T16:05:44.01470284Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -18,11 +18,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.1.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.773364636Z"
+    created: "2022-01-13T16:05:44.013193167Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -37,11 +37,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-3.0.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.770542682Z"
+    created: "2022-01-13T16:05:44.011591995Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -56,11 +56,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-2.0.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.768691115Z"
+    created: "2022-01-13T16:05:44.009484332Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -75,11 +75,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.5.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.766784043Z"
+    created: "2022-01-13T16:05:44.007834761Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -94,11 +94,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.1.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.764835467Z"
+    created: "2022-01-13T16:05:44.006089892Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -113,11 +113,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.4.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.762939596Z"
+    created: "2022-01-13T16:05:44.004634317Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -132,11 +132,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.3.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.761342052Z"
+    created: "2022-01-13T16:05:44.003426139Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -151,11 +151,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.2.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.2.2.tgz
     version: 1.2.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.759060447Z"
+    created: "2022-01-13T16:05:44.00220196Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -170,11 +170,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.1.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.755576332Z"
+    created: "2022-01-13T16:05:44.000718186Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -189,11 +189,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.2.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.753252223Z"
+    created: "2022-01-13T16:05:43.998712622Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -208,11 +208,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.1.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.751186937Z"
+    created: "2022-01-13T16:05:43.997490543Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -227,11 +227,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.1.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2021-12-06T10:11:17.749495784Z"
+    created: "2022-01-13T16:05:43.996259165Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -246,12 +246,12 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://sentry-kubernetes.github.io/charts/clickhouse-1.0.0.tgz
+    - https://valtechmobility.github.io/charts/clickhouse-1.0.0.tgz
     version: 1.0.0
   sentry:
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2021-12-06T10:11:18.668713046Z"
+    created: "2022-01-13T16:05:44.722174684Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -279,15 +279,15 @@ entries:
       repository: https://charts.bitnami.com/bitnami
       version: 9.3.3
     description: A Helm chart for Kubernetes
-    digest: c5c26da57e227dcb02f55c33b0e93277e1eaf4b2da820f358f8b24e7c9815af4
+    digest: a4c8fb951bb45237e9c81ae5534702f2b004637a5685316675e48b27f23a12ee
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-12.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-12.0.0.tgz
     version: 12.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2021-12-06T10:11:18.631615102Z"
+    created: "2022-01-13T16:05:44.693555687Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -319,11 +319,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.9.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.9.0.tgz
     version: 11.9.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2021-12-06T10:11:18.598383807Z"
+    created: "2022-01-13T16:05:44.669743507Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -355,11 +355,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.8.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.8.0.tgz
     version: 11.8.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2021-12-06T10:11:18.566064093Z"
+    created: "2022-01-13T16:05:44.64458175Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -391,11 +391,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.7.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.7.0.tgz
     version: 11.7.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2021-12-06T10:11:18.536487427Z"
+    created: "2022-01-13T16:05:44.621137363Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -427,11 +427,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.6.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.6.0.tgz
     version: 11.6.0
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2021-12-06T10:11:18.505306916Z"
+    created: "2022-01-13T16:05:44.596343399Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -463,11 +463,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.5.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.5.1.tgz
     version: 11.5.1
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2021-12-06T10:11:18.473240026Z"
+    created: "2022-01-13T16:05:44.572355221Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -499,11 +499,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.5.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.5.0.tgz
     version: 11.5.0
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2021-12-06T10:11:18.441595873Z"
+    created: "2022-01-13T16:05:44.547600457Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -535,11 +535,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.4.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.4.1.tgz
     version: 11.4.1
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2021-12-06T10:11:18.409717499Z"
+    created: "2022-01-13T16:05:44.524278568Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -571,11 +571,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.4.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.4.0.tgz
     version: 11.4.0
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2021-12-06T10:11:18.381233832Z"
+    created: "2022-01-13T16:05:44.50200656Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -607,11 +607,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.3.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.3.3.tgz
     version: 11.3.3
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2021-12-06T10:11:18.351111216Z"
+    created: "2022-01-13T16:05:44.478806469Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -643,11 +643,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.3.2.tgz
     version: 11.3.2
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2021-12-06T10:11:18.321075609Z"
+    created: "2022-01-13T16:05:44.455662576Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -679,11 +679,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.3.1.tgz
     version: 11.3.1
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2021-12-06T10:11:18.293888658Z"
+    created: "2022-01-13T16:05:44.431828996Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -715,11 +715,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.3.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.3.0.tgz
     version: 11.3.0
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2021-12-06T10:11:18.265751322Z"
+    created: "2022-01-13T16:05:44.408467907Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -751,11 +751,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.2.2.tgz
     version: 11.2.2
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2021-12-06T10:11:18.236656499Z"
+    created: "2022-01-13T16:05:44.385264016Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -787,11 +787,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.2.1.tgz
     version: 11.2.1
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2021-12-06T10:11:18.208150429Z"
+    created: "2022-01-13T16:05:44.361964426Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -823,11 +823,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.2.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.2.0.tgz
     version: 11.2.0
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2021-12-06T10:11:18.179431841Z"
+    created: "2022-01-13T16:05:44.338630637Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -859,11 +859,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.1.0.tgz
     version: 11.1.0
   - apiVersion: v2
     appVersion: 21.3.1
-    created: "2021-12-06T10:11:18.146773497Z"
+    created: "2022-01-13T16:05:44.315942236Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -895,11 +895,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.0.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.0.1.tgz
     version: 11.0.1
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2021-12-06T10:11:18.120028986Z"
+    created: "2022-01-13T16:05:44.292797544Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -931,11 +931,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-11.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-11.0.0.tgz
     version: 11.0.0
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2021-12-06T10:11:18.091624925Z"
+    created: "2022-01-13T16:05:44.270082944Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -967,11 +967,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-10.1.0.tgz
     version: 10.1.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-12-06T10:11:18.062662714Z"
+    created: "2022-01-13T16:05:44.246703255Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1003,11 +1003,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-10.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-12-06T10:11:20.068298611Z"
+    created: "2022-01-13T16:05:45.809481339Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1039,11 +1039,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-9.1.2.tgz
     version: 9.1.2
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-12-06T10:11:20.037719154Z"
+    created: "2022-01-13T16:05:45.78669694Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1075,11 +1075,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-9.1.1.tgz
     version: 9.1.1
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2021-12-06T10:11:20.010284781Z"
+    created: "2022-01-13T16:05:45.765273817Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1111,11 +1111,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-9.1.0.tgz
     version: 9.1.0
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2021-12-06T10:11:19.983142634Z"
+    created: "2022-01-13T16:05:45.743018309Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1147,11 +1147,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-9.0.2.tgz
     version: 9.0.2
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2021-12-06T10:11:19.95291891Z"
+    created: "2022-01-13T16:05:45.720399108Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1183,11 +1183,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-9.0.1.tgz
     version: 9.0.1
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2021-12-06T10:11:19.922328352Z"
+    created: "2022-01-13T16:05:45.697604409Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1219,11 +1219,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-9.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-12-06T10:11:19.895303916Z"
+    created: "2022-01-13T16:05:45.675092905Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1255,11 +1255,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.3.tgz
+    - https://valtechmobility.github.io/charts/sentry-8.1.3.tgz
     version: 8.1.3
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-12-06T10:11:19.870421773Z"
+    created: "2022-01-13T16:05:45.654418669Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1291,11 +1291,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-8.1.2.tgz
     version: 8.1.2
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-12-06T10:11:19.843141914Z"
+    created: "2022-01-13T16:05:45.635297906Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1327,11 +1327,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-8.1.1.tgz
     version: 8.1.1
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2021-12-06T10:11:19.818735514Z"
+    created: "2022-01-13T16:05:45.616443338Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1363,11 +1363,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-8.1.0.tgz
     version: 8.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.79284328Z"
+    created: "2022-01-13T16:05:45.596637087Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1399,11 +1399,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-8.0.1.tgz
     version: 8.0.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.765643428Z"
+    created: "2022-01-13T16:05:45.576938733Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1435,11 +1435,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-8.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.739338657Z"
+    created: "2022-01-13T16:05:45.556626791Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1471,11 +1471,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.4.1.tgz
     version: 7.4.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.712408729Z"
+    created: "2022-01-13T16:05:45.537697824Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1507,11 +1507,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.4.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.4.0.tgz
     version: 7.4.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.686941034Z"
+    created: "2022-01-13T16:05:45.518153769Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1543,11 +1543,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.3.1.tgz
     version: 7.3.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.664081273Z"
+    created: "2022-01-13T16:05:45.499484697Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1579,11 +1579,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.3.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.3.0.tgz
     version: 7.3.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.64130202Z"
+    created: "2022-01-13T16:05:45.480324035Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1615,11 +1615,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.2.1.tgz
     version: 7.2.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.616725804Z"
+    created: "2022-01-13T16:05:45.462120955Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1651,11 +1651,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.2.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.2.0.tgz
     version: 7.2.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.592312503Z"
+    created: "2022-01-13T16:05:45.443743979Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1687,11 +1687,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.1.0.tgz
     version: 7.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2021-12-06T10:11:19.566777002Z"
+    created: "2022-01-13T16:05:45.425093907Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1723,11 +1723,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-7.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-12-06T10:11:19.541376012Z"
+    created: "2022-01-13T16:05:45.40618784Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1759,11 +1759,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-6.2.1.tgz
     version: 6.2.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-12-06T10:11:19.51750606Z"
+    created: "2022-01-13T16:05:45.387196274Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1795,11 +1795,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.2.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-6.2.0.tgz
     version: 6.2.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-12-06T10:11:19.492582313Z"
+    created: "2022-01-13T16:05:45.367839915Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1831,11 +1831,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-6.1.0.tgz
     version: 6.1.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-12-06T10:11:19.468181614Z"
+    created: "2022-01-13T16:05:45.349753534Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1867,11 +1867,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-6.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-12-06T10:11:19.44295904Z"
+    created: "2022-01-13T16:05:45.330883966Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1903,11 +1903,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.6.1.tgz
     version: 5.6.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2021-12-06T10:11:19.417671061Z"
+    created: "2022-01-13T16:05:45.312160296Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1939,11 +1939,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.6.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.6.0.tgz
     version: 5.6.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.393974624Z"
+    created: "2022-01-13T16:05:45.292778437Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1975,11 +1975,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.5.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.5.0.tgz
     version: 5.5.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.369997863Z"
+    created: "2022-01-13T16:05:45.275153747Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2011,11 +2011,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.4.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.4.0.tgz
     version: 5.4.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.346415937Z"
+    created: "2022-01-13T16:05:45.256184481Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2047,11 +2047,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.3.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.3.0.tgz
     version: 5.3.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.320144269Z"
+    created: "2022-01-13T16:05:45.238400394Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2083,11 +2083,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.3.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.2.3.tgz
     version: 5.2.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.292374566Z"
+    created: "2022-01-13T16:05:45.219826421Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2119,11 +2119,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.2.2.tgz
     version: 5.2.2
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.269723524Z"
+    created: "2022-01-13T16:05:45.201456345Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2155,11 +2155,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.2.1.tgz
     version: 5.2.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.247322205Z"
+    created: "2022-01-13T16:05:45.182365481Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2191,11 +2191,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.2.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.2.0.tgz
     version: 5.2.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.22330654Z"
+    created: "2022-01-13T16:05:45.164320699Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2227,11 +2227,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.3.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.1.3.tgz
     version: 5.1.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.200065945Z"
+    created: "2022-01-13T16:05:45.145988221Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2263,11 +2263,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.1.2.tgz
     version: 5.1.2
   - apiVersion: v2
     appVersion: 20.8.1
-    created: "2021-12-06T10:11:19.176470418Z"
+    created: "2022-01-13T16:05:45.126380467Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2299,11 +2299,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.1.1.tgz
     version: 5.1.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2021-12-06T10:11:19.152342743Z"
+    created: "2022-01-13T16:05:45.107911592Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2335,11 +2335,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.1.0.tgz
     version: 5.1.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-12-06T10:11:19.130657188Z"
+    created: "2022-01-13T16:05:45.089398018Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2371,11 +2371,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.0.1.tgz
     version: 5.0.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-12-06T10:11:19.108266069Z"
+    created: "2022-01-13T16:05:45.070167856Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2407,11 +2407,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-5.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2021-12-06T10:11:19.08509078Z"
+    created: "2022-01-13T16:05:45.052507267Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2439,11 +2439,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.8.1.tgz
     version: 4.8.1
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2021-12-06T10:11:19.063744956Z"
+    created: "2022-01-13T16:05:45.036055357Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2471,11 +2471,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.8.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.8.0.tgz
     version: 4.8.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2021-12-06T10:11:19.042120807Z"
+    created: "2022-01-13T16:05:45.019114255Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2503,11 +2503,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.7.2.tgz
     version: 4.7.2
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-12-06T10:11:19.0220798Z"
+    created: "2022-01-13T16:05:45.00182206Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2535,11 +2535,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.7.1.tgz
     version: 4.7.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-12-06T10:11:19.001576652Z"
+    created: "2022-01-13T16:05:44.984371967Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2567,11 +2567,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.7.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.7.0.tgz
     version: 4.7.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-12-06T10:11:18.981086505Z"
+    created: "2022-01-13T16:05:44.967452165Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2599,11 +2599,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.6.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.6.0.tgz
     version: 4.6.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-12-06T10:11:18.960275529Z"
+    created: "2022-01-13T16:05:44.950733459Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2631,11 +2631,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.5.1.tgz
     version: 4.5.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2021-12-06T10:11:18.939619667Z"
+    created: "2022-01-13T16:05:44.934078152Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2663,11 +2663,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.5.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.5.0.tgz
     version: 4.5.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2021-12-06T10:11:18.91868698Z"
+    created: "2022-01-13T16:05:44.917441045Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2695,11 +2695,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.4.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.4.0.tgz
     version: 4.4.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2021-12-06T10:11:18.898468257Z"
+    created: "2022-01-13T16:05:44.900067951Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2727,11 +2727,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.3.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.3.0.tgz
     version: 4.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.878374446Z"
+    created: "2022-01-13T16:05:44.884134232Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2759,11 +2759,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.2.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.2.0.tgz
     version: 4.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.857971907Z"
+    created: "2022-01-13T16:05:44.867567724Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2791,11 +2791,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.835717101Z"
+    created: "2022-01-13T16:05:44.85130131Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2823,11 +2823,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-4.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.815435373Z"
+    created: "2022-01-13T16:05:44.835201193Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2855,11 +2855,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.794340171Z"
+    created: "2022-01-13T16:05:44.818555787Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2887,11 +2887,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-3.0.1.tgz
     version: 3.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.773662607Z"
+    created: "2022-01-13T16:05:44.802607667Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2919,11 +2919,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-3.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.753378878Z"
+    created: "2022-01-13T16:05:44.785712965Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2951,11 +2951,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.2.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.732163666Z"
+    created: "2022-01-13T16:05:44.769671247Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2983,11 +2983,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.710034371Z"
+    created: "2022-01-13T16:05:44.752801944Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3015,11 +3015,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.689567426Z"
+    created: "2022-01-13T16:05:44.737649111Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3047,11 +3047,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-2.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.033888021Z"
+    created: "2022-01-13T16:05:44.224820941Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3079,11 +3079,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:18.01203235Z"
+    created: "2022-01-13T16:05:44.208782423Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3111,11 +3111,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.3.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.993198653Z"
+    created: "2022-01-13T16:05:44.19189762Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3143,11 +3143,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.2.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.973734698Z"
+    created: "2022-01-13T16:05:44.17655109Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3175,11 +3175,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.1.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.954813593Z"
+    created: "2022-01-13T16:05:44.158934001Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3207,11 +3207,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-1.0.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.918546423Z"
+    created: "2022-01-13T16:05:44.129903312Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3239,11 +3239,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.3.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.12.3.tgz
     version: 0.12.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.8994286Z"
+    created: "2022-01-13T16:05:44.113919293Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3271,11 +3271,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.12.2.tgz
     version: 0.12.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.877708342Z"
+    created: "2022-01-13T16:05:44.095145324Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3303,11 +3303,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.12.1.tgz
     version: 0.12.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.857566226Z"
+    created: "2022-01-13T16:05:44.079071807Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3335,11 +3335,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.12.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.836602636Z"
+    created: "2022-01-13T16:05:44.062359401Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3367,11 +3367,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.11.1.tgz
     version: 0.11.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.815778959Z"
+    created: "2022-01-13T16:05:44.046842574Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3399,11 +3399,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.11.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.795389321Z"
+    created: "2022-01-13T16:05:44.030533961Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3431,122 +3431,122 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.10.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.935987195Z"
+    created: "2022-01-13T16:05:44.142566589Z"
     description: A Helm chart for Kubernetes
     digest: ccf7aabac486a68779d6564d90a875b45fefa4e4a9e8f86903355cf886b6a3aa
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.4.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.934573568Z"
+    created: "2022-01-13T16:05:44.141483808Z"
     description: A Helm chart for Kubernetes
     digest: 07b380bbb341bb276b962de0b3721c9142a97e9fd084a394fc4d9f5db75bceea
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.3.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.933178242Z"
+    created: "2022-01-13T16:05:44.140388227Z"
     description: A Helm chart for Kubernetes
     digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.931791417Z"
+    created: "2022-01-13T16:05:44.139271447Z"
     description: A Helm chart for Kubernetes
     digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.930342287Z"
+    created: "2022-01-13T16:05:44.137651875Z"
     description: A Helm chart for Kubernetes
     digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.9.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.928455016Z"
+    created: "2022-01-13T16:05:44.136117002Z"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.8.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.926582148Z"
+    created: "2022-01-13T16:05:44.135073221Z"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.7.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.924624271Z"
+    created: "2022-01-13T16:05:44.134031039Z"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.92316794Z"
+    created: "2022-01-13T16:05:44.132931258Z"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.6.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.921320373Z"
+    created: "2022-01-13T16:05:44.131928876Z"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.5.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:17.919919647Z"
+    created: "2022-01-13T16:05:44.130924294Z"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-0.2.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-0.2.1.tgz
     version: 0.2.1
   sentry-db:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.273901145Z"
+    created: "2022-01-13T16:05:45.963656524Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3573,11 +3573,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.4.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.255193758Z"
+    created: "2022-01-13T16:05:45.949414475Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3604,11 +3604,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.3.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.235419476Z"
+    created: "2022-01-13T16:05:45.935170126Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3635,11 +3635,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.2168323Z"
+    created: "2022-01-13T16:05:45.920905477Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3666,11 +3666,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.197612268Z"
+    created: "2022-01-13T16:05:45.906928623Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3697,11 +3697,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.9.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.17778098Z"
+    created: "2022-01-13T16:05:45.892487278Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3728,11 +3728,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.8.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.159466229Z"
+    created: "2022-01-13T16:05:45.879163112Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3759,11 +3759,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.7.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.13939732Z"
+    created: "2022-01-13T16:05:45.864128977Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3790,11 +3790,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.123008843Z"
+    created: "2022-01-13T16:05:45.849988326Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3821,11 +3821,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.6.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.10600461Z"
+    created: "2022-01-13T16:05:45.836373866Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3852,11 +3852,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.5.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2021-12-06T10:11:20.087473639Z"
+    created: "2022-01-13T16:05:45.8230472Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3883,12 +3883,12 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-db-0.2.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-db-0.2.1.tgz
     version: 0.2.1
   sentry-kubernetes:
   - apiVersion: v2
     appVersion: latest
-    created: "2021-12-06T10:11:20.275394579Z"
+    created: "2022-01-13T16:05:45.964742705Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 57760fc8ad6d26a6cf3d28b78bfb2bdb8d80f4cce2ff1d4e527c2b2f3d1437c9
     home: https://github.com/getsentry/sentry-kubernetes
@@ -3902,11 +3902,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.2.tgz
+    - https://valtechmobility.github.io/charts/sentry-kubernetes-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: latest
-    created: "2021-12-06T10:11:20.274888334Z"
+    created: "2022-01-13T16:05:45.964399111Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 233c575ab9e3eb3f63ee347cf32d3719b22e6546952a160cf253b32f895b5b83
     home: https://github.com/getsentry/sentry-kubernetes
@@ -3920,11 +3920,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.1.tgz
+    - https://valtechmobility.github.io/charts/sentry-kubernetes-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: latest
-    created: "2021-12-06T10:11:20.274447194Z"
+    created: "2022-01-13T16:05:45.964046718Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 727778ddeffa08ad086e07dc6014f13a905145cde1d257816df2fd52f1ec93db
     home: https://github.com/getsentry/sentry-kubernetes
@@ -3938,6 +3938,6 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://sentry-kubernetes.github.io/charts/sentry-kubernetes-0.3.0.tgz
+    - https://valtechmobility.github.io/charts/sentry-kubernetes-0.3.0.tgz
     version: 0.3.0
-generated: "2021-12-06T10:11:17.747408896Z"
+generated: "2022-01-13T16:05:43.994795491Z"
